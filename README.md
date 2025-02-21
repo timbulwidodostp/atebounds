@@ -1,6 +1,8 @@
 # atebounds
 Bounding the average treatment effect (ATE) Use atebounds (ATbounds) With (In) R Software
 
+https://www.youtube.com/watch?v=18kRnDkNGhw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
